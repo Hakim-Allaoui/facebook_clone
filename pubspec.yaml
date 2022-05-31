@@ -1,0 +1,92 @@
+name: fake_it
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.1+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+#Dependencies
+  ##Flutter related:
+  path_provider: ^2.0.9
+  intl: ^0.17.0
+  logger: ^1.1.0
+  shared_preferences: ^2.0.13
+
+  ##Ui Dependencies:
+  font_awesome_flutter: ^9.2.0
+  tab_indicator_styler: ^2.0.0
+  flutter_svg: ^1.0.0
+  iconsax: ^0.0.8
+  auto_direction: ^0.0.5
+  top_snackbar_flutter: ^1.0.2
+
+  ##localizition:
+  easy_localization: ^3.0.0
+  easy_localization_loader: ^1.0.0
+
+  ##Firebase related:
+#  firebase_core: ^1.17.1
+#  firebase_auth: ^3.3.19
+#  cloud_firestore: ^3.1.17
+#  firebase_storage: ^10.2.17
+#  firebase_remote_config: ^2.0.8
+#  firebase_analytics: ^9.1.9
+
+  ##State Management:
+  provider: ^6.0.2
+
+  ##Other
+  multi_crop_picker: ^0.0.5
+  image_picker: ^0.8.4+7
+  image_cropper: ^1.5.1
+  cached_network_image: ^3.2.1
+  internet_connection_checker: ^0.0.1+3
+  url_launcher: ^6.1.0
+  package_info_plus: ^1.4.2
+  flutter_widget_from_html_core: ^0.8.5+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  #Assets
+  assets:
+    - assets/
+    - assets/translations/
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+    - assets/icons/page/
+    - assets/icons/profile/
+    - assets/icons/reactions/
+  #Fonts
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: San Fransisco
+      fonts:
+        - asset: assets/fonts/SF-Regular.otf
+        - asset: assets/fonts/SF-Bold.otf
+          weight: 700
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.otf
+        - asset: assets/fonts/Montserrat-Bold.otf
+          weight: 700

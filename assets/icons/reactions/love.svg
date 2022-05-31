@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 16 16">
+    <defs>
+        <linearGradient id="linear-gradient" x1="8" y1="34" x2="8" y2="18"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 34)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff6680" />
+            <stop offset="1" stop-color="#e61739" />
+        </linearGradient>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <g id="love">
+                <path d="M8,0a8,8,0,1,0,5.66,2.34A8,8,0,0,0,8,0Z" fill="url(#linear-gradient)" />
+                <path
+                    d="M10.47,4A2.31,2.31,0,0,0,8,5.82,2.3,2.3,0,0,0,5.53,4C3.41,4,2.8,6.22,3.06,7.41,3.74,10.55,8,12.75,8,12.75s4.27-2.2,4.95-5.34C13.2,6.22,12.59,4,10.47,4Z"
+                    fill="#fff" />
+            </g>
+        </g>
+    </g>
+</svg>

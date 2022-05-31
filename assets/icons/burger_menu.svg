@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 55.79">
+    <g id="Layer_2">
+        <g id="Layer_1-2">
+            <g id="burger_menu">
+                <path d="M63,32.89H5a5,5,0,0,1,0-10H63a5,5,0,0,1,0,10Z" fill="#1a1a1a"/>
+                <path d="M53.08,10H5A5,5,0,0,1,5,0H53.08a5,5,0,0,1,0,10Z" fill="#1a1a1a"/>
+                <path d="M35.53,55.79H5a5,5,0,0,1,0-10H35.53a5,5,0,0,1,0,10Z" fill="#1a1a1a"/>
+            </g>
+        </g>
+    </g>
+</svg>

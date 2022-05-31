@@ -1,0 +1,171 @@
+str,en,ar,fr,es,vi,pt,it
+reset_locale,Reset Saved Language,إعادة تعيين اللغة المحفوظة,Réinitialiser la langue enregistrée,Restablecer idioma guardado,Thiết lập lại lưu Ngôn ngữ,Redefinir a linguagem salva,Reset Lingua Salvata
+home,Home,الرئيسية,Accueil,Inicio,Trang Chủ,Pagina inicial,Home
+rate,Rate Us,قيمنا على المتجر,Notez-nous,Calificanos,Đánh giá chúng tôi,Nos avalie,Votaci
+more_apps,More Apps,تطبيقات أخرى,Autres applications,Mas Apps,Các ứng dụng khác,Mais aplicativos,Più App
+login,Login,تسجيل الدخول,Connexion,Iniciar sesión,Đăng nhập,Conecte-se,Accedi
+signup,signup,إنشاء حساب,S’inscrire,Registrarse,đăng ký,inscrever-se,Registrati
+privacy_policy,Privacy Policy,سياسة الخصوصية,Politique de\nconfidentialité,Política de privacidad,Chính sách bảo mật,Política de Privacidade,Privacy Policy
+about,About,حول,à propos,Acerca de,Trong khoảng,Cerca de,Informazioni
+rating_dialog,"We need your support 🤗
+👇 Please Rate App 👇",نحن بحاجة إلى دعمكم 🤗\n 👇المرجو تقييمنا على المتجر👇,Nous avons besoin de votre support🤗\n👇N’hésitez pas à nous noter ! 👇,"Necesitamos tu apoyo 🤗\n👇 Por favor, califica la app 👇",Chúng tôi cần sự ủng hộ của bạn 🤗 \n👇 Hãy Rate App 👇,"Precisamos do seu apoio 🤗
+👇 Por favor, avalie o aplicativo 👇",Ci serve il tuo supporto\n👇Per favore votaci 👇
+disclaimer,Disclaimer,تنصل,Avertissement,Aviso legal,Disclaimer,Isenção de responsabilidade,Disclaimer
+how_to_use,How to use,كيفية الإستعمال,Tutoriel,Como usar,Làm thế nào để sử dụng,Como usar,Come funziona
+version,Version,إصدار,Version,Versión,Phiên bản,Versão,Versione
+email,Email,البريد الإلكتروني,Email,Correo,E-mail,E-mail,Email
+name,Name,الإسم,Nom,Nombre,Tên,Nome,Nome
+username,Username,اسم المستخدم,Nom d’utilisateur,Nombre de usuario,tên tài khoản,Nome do usuário,Username
+password,Password,كلمه السر,Mot de passe,Contraseña,Mật khẩu,Senha,Password
+invalid_email,Invalid email,بريد إلكتروني خاطئ,Email incorrecte,Correo inválido,Email không hợp lệ,E-mail inválido,Email non valida
+invalid_username,Invalid username,اسم مستخدم غير صحيح,Nom d’utilisateur incorrecte,Nombre de usuario inválido,Tên sử dụng không hợp lệ,Nome de usuário Inválido,Username non valido
+password_is_too_short,Password is too short,كلمة المرور قصيرة جدا,votre mot de passe est trop court !,La contraseña es demasiado corta,Mật khẩu quá ngắn,A senha é muito curta,La password è troppo corta
+confirm_Password,Confirm Password,تأكيد كلمة المرور,Confirmez le mot de passe,Confirmar contraseña,Xác nhận mật khẩu,Confirme a Senha,Conferma password
+passwords_do_not_match,Passwords do not match,كلمة المرور غير مطابقة,Les mots de passes ne se correspondent pas,Las contraseñas no coinciden,Mật khẩu không phù hợp,As senhas não coincidem,La password non coincide
+dont_have_account,Haven't account?\nCreate one,ليس لديك حساب؟\nانشئ واحدا,Pas de compte?\nCréer un compte,No tienes una cuenta?\nCrear una,Có không chiếm? \nTạo một,Não têm conta?\nCrie agora,Non hai un account?\nCreane uno
+login_instead,LOGIN INSTEAD,تسجيل الدخول بدلا من ذلك,CONNEXION AU LIEU,INICIA SESIÓN,ĐĂNG NHẬP THAY,Login em vez disso,ACCEDI INVECE
+or,Or,أو,ou,o,Hoặc là,Ou,O
+you_can_also,You can also,يمكنك أيضا,Vous pouvez aussi,También puedes,Bạn cũng có thể,Você também pode,Puoi anche
+continue_anonymously,CONTINUE ANONYMOUSLY,الإستمرار بدون تسجيل الدخول,CONTINUER ANONYME,continuar anónimamente,CONTINUE nặc danh,CONTINUAR ANONIMAMENTE,CONTINUARE IN MODO ANONIMO
+an_error_occurred,An Error Occurred!,حدث خطأ!,Une erreur s’est produite,Un error ha ocurrido,Có lỗi xảy ra!,Um erro ocorreu!,C'è stato un errore!
+ok,OK,حسنا,OK,OK,đồng ý,OK,Ok
+error_server_too_many_requests,Error server\ntoo many requests 😕\nYou still can create posts and save them\ntry again in 12h,حدث عطب في الخادم\nطلبات كثيرة جدا 😕\nلا يزال بإمكانك إنشاء منشور وحفظه\nحاول في غضون 12 ساعة,Erreur serveur \nTrop de tentative opérée 😕\nVous pouvez toujours crée des postes et enregistrer des thèmes\n Réessayez dans 12h,Error del servidor\nDemasiadas solicitudes 😕\nTodavía puedes crear publicaciones y guardarlas\nInténtalo de nuevo en 12h,Máy chủ lỗi \n quá nhiều yêu cầu 😕 \n Bạn vẫn có thể tạo bài đăng và lưu chủ đề \n hãy thử lại sau 12 giờ,servidor de erro\nmuitas solicitações 😕\nVocê ainda pode criar postagens e salvá-los\ntente novamente em 12h,Errore del server\ntroppe richieste 😕\nPuoi ancora creare post e salvarli\nRiprova tra 12 ore
+create_offline_post,Create post,إنشاء منشور,Créer un post en hors ligne,Crear publicación,tạo bài,Criar postagem,Crea post
+saved_posts,Saved posts,المنشورات المحفوظة,Posts enregistrés,Publicaciones guardadas,bài đăng đã lưu,Posts salvos,Salva post
+create_post,Create post,منشور جديد,Créer un post,Crear publicación,tạo bài,Criar postagem,Crea post
+posts_title,Posts,المنشورات,Posts,Publicaciones,bài viết,Postagens,Post
+options,Options,الإعدادات,Options,Opciones,tùy chọn,Opções,Opzioni
+other_name,Other Name,Other Name,Autre nom,Otro nombre,Tên khác,Outro nome,Altro Nome
+bio_text,Bio Text 💭,نص السيرة الذاتية 💭,Bio 💭,Texto de bio 💭,Bio chữ 💭,Bio Texto 💭.,Bio Testo 💭
+two_h,2 h,ساعتان,2 h,2 h,2 h,2 H.,2 h
+click_to_write_your_own_post_text,Click to write your own post text 📝.,اضغط لكتابة نص المنشور الخاص بك 📝.,Cliquez pour écrire votre texte 📝.,Haz click para escribir tu propia publicación 📝.,Nhấn vào đây để viết bài văn bản của riêng bạn 📝.,Clique para escrever seu próprio texto Post 📝.,Click per digitare il testo del tuo post 📝.
+please_login_to_save_post,please login to save post,الرجاء تسجيل الدخول للحفظ,Veuillez-vous connecter pour enregistrer le post,"Por favor, inicia sesión para guardar la publicación",xin vui lòng đăng nhập để lưu bài,"Por favor, faça o login para salvar post",per favore accedi per salvare il post
+saved,Saved,تم الحفظ,Enregistré,Guardado,Saved,Salvou,Salvato
+unsaved,Unsaved,غير محفوظ,Non enregistrer,No guardado,chưa được lưu,Não salvo,Non salvato
+uploading...,Uploading...,جاري الحفظ...,Uploading...,Cargando...,Đang tải lên ...,Enviando...,Caricando....
+edit_pictures,Edit pictures,تحرير الصور,Modifier images,Editar fotos,chỉnh sửa hình ảnh,Editar fotos,Modifica foto
+exit_full_screen_post,Exit Full screen post,الخروج من وضع ملء الشاشة,Quitter le pleine écran,Salir de pantalla completa,Thoát bài Toàn màn hình,Sair da postagem de tela cheia,Esci dal post a tutto schermo
+full_screen_post,Full screen post,وضع ملء الشاشة,Pleine écran,Pantalla completa,bài toàn màn hình,Postagem de tela cheia,Post a tutto schermo
+elapsed_time,Elapsed time,الوقت المنقضي,Temps écoulé,Tiempo transcurrido,thời gian trôi qua,Tempo decorrido,Tempo trascorso
+write_a_comment,Write a comment...,اكتب تعليقاً...,Écrire un commentaire...,Escribe un comentario...,Viết bình luận...,Escreva um comentário...,Scrivi un commento....
+confirmation,ِِConfirmation,تأكيد,ِِConfirmation,Confirmación,sự xác nhận,confirmação,Conferma
+post_will_not_be_saved,Post will not be saved!,لن يتم حفظ المنشور!,Le message ne sera pas enregistré!,La publicación no sera guardada!,Bài viết sẽ không được lưu!,Post não será salvo!,Il post non verrà salvato!
+changes_not_saved_yet_do_you_want_to_update,Changes not saved yet.\nDo you want to Update?,لم يتم حفظ التغييرات بعد.\nهل تريد الحفظ؟,Les modifications ne sont pas encore enregistrées. \nVoulez-vous mettre à jour?,Los cambios aun no han sido guardados.\nQuieres actualizar?,Thay đổi chưa được lưu. \nBạn có muốn cập nhật?,Mudanças ainda não salvas.\nDeseja Update?,Modifiche non ancora salvate.\nVuoi fare l'update?
+discard,Discard,تجاهل,Jeter,Descartar,Huỷ,Descartar,Elimina
+save,Save,حفظ,Enregistrer,Registro,Ghi lại,Registro,Salva
+update,Update,تحديث,Mettre à jout,Actualizar,cập nhật,Atualizar,Update
+delete_comment,Delete Comment?,حذف التعليق؟,Supprimer le commentaire?,Borrar comentario?,Xóa nhận xét?,Excluir comentário?,Cancellare il commento?
+cancel,Cancel,إلغاء,Annuler,Cancelar,hủy bỏ,Cancelar,Cancella
+click_to_edit_comment,Click to edit comment ✏.\nDrag to remove 🗑.,اضغط لتحرير التعليق ✏.\nاسحب لإزالة 🗑.,Cliquez pour modifier le commentaire ✏.\nFaites glisser pour supprimer 🗑.,Haga clic para editar comentarios ✏.\nArrastre para eliminar 🗑.,Nhấn vào đây để chỉnh sửa bình luận ✏.\nKéo để xóa 🗑.,Clique para editar comentário ✏.\nArraste para remover 🗑.,Fai clic per modificare il commento ✏.\nDravi per rimuovere 🗑.
+fifteen_m,15 m,15 دقيقة,15 m,15 m,15 m,15 M.,15 min
+add_comment,Add comment,أضف تعليق,Ajouter un commentaire,Agregar comentario,Thêm bình luận,Adicionar comentário,Aggiungi un commento
+user_pic,User pic,الصورة,Photo,Foto de usuario,sử dụng pic,Pic do usuário.,Foto utente
+initializing,Initializing...,المرجو الإنتظار...,Initialisation ...,Inicializando...,Khởi tạo ...,Inicializando ...,Inizio...
+Like,Like,أعجبني,J’aime,Me gusta,Thích,Gosto,Mi piace
+comment.zero,Comment,تعليق,Commentaire,Comentario,Bình luận,Comentar,Commento
+comment.one,Comment,تعليق واحد,Commentaire,Comentario,Bình luận,Comentar,Commento
+comment.two,comments,تعليقان,commentaires,comentarios,Bình luận,comentários,commenti
+comment.few,comments,تعليقات,commentaires,comentarios,Bình luận,comentários,commenti
+comment.many,comments,تعليق,commentaires,comentarios,Bình luận,comentários,commenti
+comment.other,comments,تعليقات,commentaires,comentarios,Bình luận,comentários,commenti
+share.zero,share,مشاركة,Partage,compartir,Chia sẻ,Partilhar,condividi
+share.one,share,مشاركة واحدة,Partage,compartir,Chia sẻ,Partilhar,condividi
+share.two,shares,مشاركتان,Partages,compartidos,cổ phiếu,partilhars,condivisioni
+share.few,shares,مشاركات,Partages,compartidos,cổ phiếu,partilhars,condivisioni
+share.many,shares,مشاركة,Partages,compartidos,cổ phiếu,partilhars,condivisioni
+share.other,shares,مشاركات,Partages,compartidos,cổ phiếu,partilhars,condivisioni
+reply,Reply,رد,Répondre,Responder,Trả lời,Responder,Rispondi
+five_minutes,5 m,5 د,5 m,5 m,5 phút,5 M.,5 min
+just_now,Just Now,الآن,à l’instant,Hace un momento,Vừa xong,Agora mesmo,Adesso
+gallery,Gallery,الأستوديو,Gallerie,Galeria,Bộ sưu tập,Galeria,Galleria
+camera,Camera,الكاميرا,Caméra,Cámara,Máy ảnh,Câmera,Camera
+verified,Verified,محقق,Verifié,Verificar,đã kích hoạt,Verificado,Verificato
+comment,comment,تعليق,commentaire,comentario,nhận xét,comentário,commento
+reacts_count,Reactions,تفاعلات,Réactions,Reacciones,Phản ứng,Reações,Reazioni
+add_new_reply,Add new reply,إضافة رد,Ajouter une nouvelle réponse,Agregar nueva respuesta,Thêm bài trả lời mới,Adicionar nova resposta,Aggiungi nuova risposta
+reply,Reply,رد,Réponse,Respuesta,Đáp lại,Responder,rispondere
+delete,Delete,حذف,Supprimer,Eliminar,Xóa bỏ,Excluir,Cancella
+edit,Edit,تعديل,Modifier,Editar,Biên tập,Editar,Modifica
+click_to_edit_reply,Click to edit reply ✏.\nDrag to remove 🗑.,اضغط لتحرير الرد ✏.\nاسحب لإزالة 🗑.,Cliquez pour éditer la réponse ✏.\nFaites glisser pour supprimer.,Haga clic para editar Responder ✏.\nArrastre para eliminar 🗑.,Nhấn vào đây để chỉnh sửa Trả lời ✏.\nKéo để xóa 🗑.,Clique para editar a resposta ✏.\nArraste para remover 🗑.,Fai clic per modificare la risposta ✏.\nDravi per rimuovere 🗑.
+reactions,Reactions,التفاعلات,Réactions,Reacciones,phản ứng,Reações,Reazioni
+hold_and_drag_to_sort_reacts,Hold and drag to sort reacts,اضغط واسحب لتعديل ردود الفعل,Maintenez et glisser pour trier les réactions,Presiona y arrastra para ordenar reacciones,Giữ và kéo để tạo ra phản ứng loại,Segure e arraste para classificar reage,Tieni premuto e trascina per ordinare le reazioni
+reacts_max_selection_is,Reacts max selection is,أقصى عدد لردود الفعل هو,Réaction maximal est de,Reacciones maximas,lựa chọn tối đa phản ứng là,Reage a seleção máxima é,La selezione massima delle reazioni è
+reactions_count,Reactions,تفاعلات,Réactions,Reacciones,Phản ứng,Reações,Reazioni
+comments_count,Comments,تعليقات,commentaires,Comentario,Bình luận,Comentários,Commenti
+share_count,Shares,مشتركات,Partages,Comparte,Cổ phiếu,Ações,Condivisioni
+help_translate,Help translate,ساعدنا في الترجمة,Aide à la traduction,Ayuda a traducir,Trợ giúp dịch,Ajude a traduzir.,Aiuta a tradurre
+empty,Empty,فارغ,Vide,Vacío,Trống,Vazio,Vuoto
+delete_post,Delete post,حذف المنشور,Supprimer post ,Borrar publicación,Xóa bài đăng,Apague a postagem,Cancellare il post
+login_to_see_saved_posts,Login to see saved posts,سجل الدخول لرؤية المنشورات المحفوظة,Veuillez-vous connecter pour enregistrer le post,Inicia sesión para guardar publicaciones,Đăng nhập để xem bài đăng đã lưu,Login para ver postagens salvas,Accedi per vedere i post salvati
+continue_with_facebook,Continue with Facebook,الإستمرار بواسطة فيسبوك,Continuer avec Facebook,Continuar con Facebook,Tiếp tục với Facebook,Continue com o Facebook,Continua con Facebook
+settings,Settings,الإعدادات,Paramètre,Ajustes,Cài đặt,Configurações,Impostazioni
+language,Language,اللغة,Language,Idioma,ngôn ngữ,Língua,Lingua
+do_you_want_to_exit,Do you want to Exit?,هل تريد الخروج؟,Voulez-vous quitter l’application ?,Quieres salir?,Bạn có muốn thoát không?,Você quer sair?,Vuoi uscire?
+exit,Exit,خروج,Quitter,Salir,Lối ra,Saída,Esci
+user_caption,User : {},حساب : {},Utilisateur : {},Usuario : {},Người sử dụng : {},Utilizador : {},Utente :{}
+update_available,Update Available 🎉,إصدار جديد 🎉🎉,Mise à jour disponible ! 🎉,Actualización disponible 🎉,Cập nhật sẵn 🎉,Atualização disponível 🎉.,Aggiornamento disponibile 🎉
+update_message,"Version {} is available to download. By downloading the latest version you will get the latest features, improvements and bug fixes.",الإصدار {} متاح للتنزيل. بتنزيل أحدث إصدار ، ستحصل على أحدث الميزات، الإصلاحات والتحسينات.,"La version {} est disponible au téléchargement. En téléchargeant la dernière version, vous obtiendrez les dernières fonctionnalités, améliorations et corrections de bugs.","La versión {} esta disponible para descargar. Al descargar la última versión, obtendrá las últimas funciones, mejoras y correcciones de errores.","Phiên bản {} có sẵn để tải về. Bằng cách tải về phiên bản mới nhất bạn sẽ nhận được mới nhất tính năng, cải tiến và sửa lỗi.","Versão {} está disponível para download. Ao baixar a versão mais recente, você receberá os recursos, melhorias e correções de bugs.","La versione {} è disponibile per il download. Scaricando l'ultima versione otterrai le ultime funzionalità, miglioramenti e correzione di bug. "
+later,Later,ليس الآن,Plutard,Más tarde,Một lát sau,Mais tarde,Più tardi
+logout,Logout,تسجيل الخروج,Déconnexion,Cerrar sesión,Đăng xuất,Sair,Disconnetti
+auth_failed,Authentication failed,فشل في إثبات الهوية,Authentification échouée,Error de autenticación,Quá trình xác thực đã thất bại,Autenticação falhou,Autenticazione fallita
+email-already-in-use,The account already exists for that email.,الحساب موجود مسبقا بهذا البريد الإلكتروني.,Le compte existe déjà pour cet e-mail.,La cuenta ya existe para que el correo electrónico.,Tài khoản đã tồn tại cho email đó.,A conta já existe para esse e-mail.,Esiste già un account per questo indirizzo email
+invalid-email,This is not a valid email address.,هذا ليس عنوان بريد إلكتروني صالح.,Cette adresse email n'est pas valide.,Esta no es una dirección válida de correo electrónico.,Đây không phải là một địa chỉ email hợp lệ.,Este não é um endereço de e-mail válido.,Questo indirizzo e-mail non è valido
+weak-password,The password provided is too weak.,كلمة المرور ضعيفة جدا.,Le mot de passe fourni est trop faible.,La contraseña proporcionada es demasiado débil.,Các mật khẩu được cung cấp quá yếu.,A senha fornecida é muito fraca.,La password fornita è troppo vulnerabile
+wrong-password,Email or password is incorrect.,البريد الالكتروني او كلمة المرور غير صحيحة.,E-mail ou mot de passe incorrect.,Correo electrónico o la contraseña son incorrectos.,Email hoặc mật khẩu không đúng.,E-mail ou senha está incorreto.,l'indirizzo email o la password non sono corretti
+user-not-found,No user found for that email.,لم يتم العثور على المستخدم لهذا البريد الإلكتروني.,Aucun utilisateur trouvé pour cet e-mail.,No se encontró al usuario de que el correo electrónico.,Không dùng tìm thấy cho email đó.,Nenhum usuário encontrado para esse email.,Nessun utente per questa email
+account_suspended,Account suspended!,تم إغلاق الحساب!,Compte suspendu!,¡Cuenta suspendida!,Toàn khoản bị đình chỉ!,Conta suspensa!,Account sospeso!
+contact_us,Please contact us at,يرجى مراسلتنا على,Veuillez nous contacter à,"Por favor, póngase en contacto con nosotros en",Vui lòng liên hệ với chúng tôi tại,Por favor entre em contato conosco em,Per favore contattaci su
+more_information,for more information,للمزيد من المعلومات,pour plus d'informations,para más información,để biết thêm thông tin,Para maiores informações,per ulteriori informazioni
+create_profile,Create profile,إنشاء بروفيل,Créer un profil,Crear perfil,Tạo hồ sơ,Criar perfil,Crea profilo
+how_to_use,How to use,كيف تستعمل,Comment utiliser,Cómo utilizar,Cách sử dụng,Como usar,Come funziona
+disclaimer,Disclaimer,تنصل,Avertissement,Descargo de responsabilidad,Tuyên bố miễn trừ trách nhiệm,Isenção de responsabilidade,Disclaimer
+view_as,View as,عرض كما يبدو للآخرين,Voir comme,Visto como,Xem như,Vista como,Vedi come
+show_other_name,Show other name,إظهار اسم آخر,Montrer autre nom,Mostrar otro nombre,Hiển thị tên khác,Mostrar outro nome,Mostra un altro nome
+show_bio,Show biography,إظهار السيرة الداتية,Montrer la biographie,Mostrar biografía,Hiển thị tiểu sử.,Mostrar biografia.,Mostra biografia
+has_story,Story,مع سطوري,Story,Story,Câu chuyện,História,Storia
+please_login_to_save_profile,Please login to save profile,يرجى تسجيل الدخول لحفظ البروفايل,Veuillez vous connecter pour enregistrer le profil,"Por favor, inicie sesión para guardar el perfil",Vui lòng đăng nhập để lưu hồ sơ,"Por favor, faça o login para salvar o perfil",Per favore accedi per salvare il profilo
+see_about_info,See About's Info,رؤية المزيد,Voir la section À propos,Ver sobre la información,Xem về thông tin của Giới thiệu,Veja sobre as informações,Vedi informazioni
+saved_profiles,Saved profiles,البروفيلات المحفوظة,Profils enregistrés,Perfiles guardados,Hồ sơ đã lưu,Perfis salvos,Profili salvati
+login_to_see_saved_profiles,Login to see saved profiles,سجل الدخول لرؤية البروفيلات المحفوظة,Connectez-vous pour voir les profils enregistrés,Inicie sesión para ver los perfiles guardados,Đăng nhập để xem hồ sơ đã lưu,Faça login para ver perfis salvos,Accedi per vedere i profili salvati
+profile_will_not_be_saved,Profile will not be saved!,لن يتم حفظ البروفايل!,Le profil ne sera pas sauvegardé!,¡El perfil no será guardado!,Hồ sơ sẽ không được lưu!,O perfil não será salvo!,Il profilo non verrà salvato!
+featured_apps,Featured Apps,تطبيقات مميزة,Autres applications,Aplicaciones destacadas,Ứng dụng nổi bật,Aplicativos em destaque.,App in primo piano
+saved_pages,Saved pages,الصفحات المحفوظة,Pages sauvegardées,Páginas guardadas,Trang đã lưu.,Páginas salvas,Pagine salvate
+create_page,Create Page,إنشاء صفحة,Créer une page,Crear página,Tạo trang,Criar página,Crea pagina
+news_feed,News Feed,الصفحة الرئيسية,News Feed,Noticias,News Feed,Notícias,News Feed
+available,Available,متوفرة,Disponible,Disponible,Có sẵn,Disponível,Disponibile
+coming_soon,Coming soon,قريبا,Bientôt disponible,Próximamente,Sắp có,Em breve,Prossimamente
+page,Page,صفحة,Page,Página,Trang,Página,Pagina
+profile,Profile,ملف الشخصي,Profil,Perfil,Hồ sơ,Perfil,Profilo
+group,Group,مجموعة,Groupe,Grupo,Tập đoàn,Grupo,Gruppo
+whats_on_your_mind,What's on your mind?,بما تفكر؟,Quoi de neuf?,¿Qué tienes en mente?,Bạn đang nghĩ gì vậy?,O que está em sua mente?,Cos'hai in mente?
+reel,Reel,ريلز,Reel,Reel,Reel,Reel,Reel
+room,Room,Room,Room,Room,Room,Room,Room
+live,Live,بث مباشر,Live,Live,Live,Live,Live
+image,Image,صورة,Image,Imagen,Hình ảnh,Imagem,Immagine
+save,Save,حفظ,Enregistrer,Guardar,Cứu,Salve ,Salva
+return,Exiting,الخروج,Sortant,Que sale,Thoát ra,Saindo,Uspo
+yes,yes,نعم,oui,sí,Vâng,sim,sì
+no,No,لا,Non,No,Không,Não,No
+confirm_delete,Confirm deletion,تأكيد الحذف,Confirmer la suppression,Confirmar la eliminación,Xác nhận xóa,Confirme a exclusão,Confermare la cancellazione
+long_click_on_story_to_delete,Long click on story to delete,انقر لفترة طويلة على السطوري لحذفها,Long cliquez sur story pour supprimer,Haga clic por largo clic en la historia para eliminar,Nhấp chuột dài vào câu chuyện để xóa,Muito clique na história para excluir,Clicca a lungo sulla storia da eliminare
+dark_mode,Dark mode,الوضع المظلم,Mode sombre,Modo oscuro,Chế độ tối,Modo escuro,Modalità scura
+add_text,Add text,أضف نصًا,Ajouter du texte,Añadir texto,Chèn văn bản,Adicione texto,Aggiungi testo
+Like,Like,أعجبني,J’aime,Me gusta,Thích,Curtir,Mi piace
+Love,Love,أحببته,J’adore,Me encanta,Yêu thích,Amei,Love
+Care,Care,أدعمه,Solidaire,Me importa,Thương thương,Força,Abbraccio
+Haha,Haha,هاهاها,Haha,Me divierte,Haha,Haha,Ahah
+Wow,Wow,واااو,Wouah,Me asombra,Wow,Uau,Wow
+Sad,Sad,أحزنني,Triste,Me entristece,Buồn,Triste,Sigh
+Angry,Angry,أغضبني,Grrr,Me enfada,Phẫn nộ,Grr,Grrr
+please_fill_in_all_fields,Please fill in all fields,يرجى تعبئة جميع الحقول,Merci de remplir tous les champs,Por favor rellena todos los campos,Vui lòng điền vào tất cả các lĩnh vực,Por favor preencha todos os campos,Si prega di compilare tutti i campi
+forget_password,Forget password?,نسيان كلمة المرور؟,Mot de passe oublié?,¿Contraseña olvidada?,Quên mật khẩu?,Esqueceu a senha?,Dimenticare la password?
+add_images,Add images,إضافة صور,Ajouter des images,Añadir imágenes,Thêm hình ảnh,Adicionar imagens,Aggiungi immagini
+photos,Photos,صور,Photos,Fotos,Ảnh,Fotos,Fotografie
+no_image,No image,لا توجد صورة,Pas d'image,Sin imágen,Không có hình ảnh,Nenhuma imagem,Nessuna immagine
+create_story,Create story,إنشاء قصة,Créer une histoire,Crear una historia,Tạo câu chuyện,Criar história,Crea storia
+loading,Loading...,تحميل...,Chargement...,Cargando...,Đang tải...,Carregando...,Caricamento in corso...
+app_will_restart,App will restart,سيتم إعادة تشغيل التطبيق,L'application redémarrera,La aplicación se reiniciará,Ứng dụng sẽ khởi động lại,O aplicativo será reiniciado,L'app si riavvierà
+edit_post,Edit post,تعديل المنشور,Modifier la publication,Editar post,Chỉnh sửa bài,Editar post,Modifica post
+save_modifications,Save modifications,حفظ التعديلات,Enregistrer les modifications,Guardar modificaciones,Lưu sửa đổi,Salvar modificações,Salva modifiche
+save,Save,حفظ,Enregistrer,Guardar,Cứu,Salve ,Salva
+discard,Discard,تجاهل,Jeter,Desechar,Loại bỏ,Descartar,Scartare
